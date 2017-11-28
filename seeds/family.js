@@ -17,7 +17,7 @@ exports.seed = function(knex, Promise) {
           kid1_image: '../image/girl1.jpeg',
           kid2_name: 'Eddie Jr Caldas',
           kid2_birthday: '07-14-2001',
-          kid2_POB: 'Denver, USA',
+          kid2_POB: 'Denver Colorado, USA',
           kid2_image: '../image/kid1.jpeg'
         },
         {
