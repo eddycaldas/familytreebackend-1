@@ -78,7 +78,7 @@ exports.seed = function(knex, Promise) {
           husband_name: 'Ben Awad',
           husband_birthday: '07-16-1983',
           husband_POB: 'Hollywood, USA',
-          husband_image: 'https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwiaxuqaqunXAhUj7oMKHSC3B3EQjRwIBw&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fben-awad-73387a37&psig=AOvVaw0Kv6St9V_oAEnTKSATRSty&ust=1512235433644495',
+          husband_image: 'https://media.licdn.com/media/AAEAAQAAAAAAAAwBAAAAJGRlZTZkYzlmLTFmMjktNGM4Ny1iZTdhLWJkYWIxYmY3OWVmOA.jpg',
           wife_name: 'Sho Awad',
           wife_birthday: '08-10-1985',
           wife_POB: 'Tokyo, Japan',
@@ -169,10 +169,10 @@ exports.seed = function(knex, Promise) {
           kid1_image: '../image/girl2.jpeg'
         },
         {
-          husband_name: 'https://img.stackshare.io/user/108734/6104558.jpeg',
+          husband_name: 'Steve Jhonson',
           husband_birthday: '07-06-1977',
           husband_POB: 'Brasilia, Brasil',
-          husband_image: '../image/dad2.jpeg',
+          husband_image: 'https://img.stackshare.io/user/108734/6104558.jpeg',
           wife_name: 'Rosie Martinez',
           wife_birthday: '08-10-1981',
           wife_POB: 'Las Vegas, USA',
