@@ -212,8 +212,7 @@ exports.seed = function(knex, Promise) {
               husband_name: 'Mike Rocks',
               husband_birthday: '07-16-1983',
               husband_POB: 'Hollywood, USA',
-              husband_image: 'https://hypb.imgix.net/image/ht/2011/10/mikey-rocks-signs-tn.jpg?w=960&q=90&fit=max&auto=compress%2Cformat
-              ',
+              husband_image: 'https://s3.amazonaws.com/hiphopdx-production/2011/10/mikey.jpg',
               wife_name: 'Sho Awad',
               wife_birthday: '08-10-1985',
               wife_POB: 'Tokyo, Japan',
