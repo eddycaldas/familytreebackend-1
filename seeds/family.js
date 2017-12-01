@@ -24,7 +24,7 @@ exports.seed = function(knex, Promise) {
           husband_name: 'Ronaldinho Velez',
           husband_birthday: '07-06-1977',
           husband_POB: 'Brasilia, Brasil',
-          husband_image: 'https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwjpjPbxqenXAhUc0IMKHXXOAhIQjRwIBw&url=https%3A%2F%2Ftwitter.com%2F10ronaldinho&psig=AOvVaw2QX8soH53Bm8wxrbNZAulW&ust=1512235367052231',
+          husband_image: 'https://pbs.twimg.com/profile_images/817091464731693057/5RSuRSGK_400x400.jpg',
           wife_name: 'Rosie Martinez',
           wife_birthday: '08-10-1981',
           wife_POB: 'Las Vegas, USA',
