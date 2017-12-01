@@ -6,19 +6,19 @@ exports.seed = function(knex, Promise) {
           husband_name: 'Eddy Caldas',
           husband_birthday: '10-06-1973',
           husband_POB: 'Lima, Peru',
-          husband_image: '../image/dad1.jpeg',
+          husband_image: 'https://scontent.fapa1-1.fna.fbcdn.net/v/t1.0-9/18582298_1755879934427317_5289505391998070888_n.jpg?oh=d39838589f89987dd00e5027334bc799&oe=5AD7B000',
           wife_name: 'Erica Caldas',
           wife_birthday: '10-20-1987',
           wife_POB: 'Ohio, USA',
-          wife_image: '../image/mom1.jpeg',
+          wife_image: 'https://scontent.fapa1-1.fna.fbcdn.net/v/t1.0-9/16508645_1834489323471344_6187219432219506251_n.jpg?oh=b602ce48a94cf381314d7d3f674610de&oe=5A9526D4',
           kid1_name: 'Katherine Caldas',
           kid1_birthday: '11-02-2011',
           kid1_POB: 'Colorado Springs, USA',
-          kid1_image: '../image/girl1.jpeg',
+          kid1_image: 'https://scontent.fapa1-1.fna.fbcdn.net/v/t1.0-9/12974365_1331668206848494_7660531240724992416_n.jpg?oh=4916217da941f8d154618230e20f9801&oe=5A9BBFB6',
           kid2_name: 'Eddie Jr Caldas',
           kid2_birthday: '07-14-2001',
           kid2_POB: 'Denver , USA',
-          kid2_image: '../image/kid1.jpeg'
+          kid2_image: 'https://scontent.fapa1-1.fna.fbcdn.net/v/t1.0-9/10256960_1134578779890772_5786803150090096225_n.jpg?oh=4158ba221be4761d813bb49905d8a767&oe=5AD1CA84'
         },
         {
           husband_name: 'Ronaldinho Velez',
