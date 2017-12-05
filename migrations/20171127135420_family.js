@@ -20,12 +20,6 @@ exports.up = function(knex, Promise) {
     table.text('kid4_name')
     table.text('kid4_POB')
     table.text('kid4_image')
-    table.text('kid5_name')
-    table.text('kid5_POB')
-    table.text('kid5_image')
-    table.text('kid6_name')
-    table.text('kid6_POB')  
-    table.text('kid6_image')
   })
 };
 
