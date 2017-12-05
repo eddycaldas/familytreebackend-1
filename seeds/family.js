@@ -1,6 +1,7 @@
 exports.seed = function(knex, Promise) {
   return knex('family').del().then(function() {
     return knex('family').insert([
+      
       {
         husband_name: 'Robertc Vince',
         husband_POB: 'Hollywood, USA',
