@@ -20,26 +20,8 @@ exports.seed = function(knex, Promise) {
         kid4_name: 'Creguix Wonge',
         kid4_POB: 'Colorado, USA',
         kid4_image: 'https://petapixel.com/assets/uploads/2011/08/nikonambass.jpg'
-      }, {
-        husband_name: 'Robertc Vince',
-        husband_POB: 'Hollywood, USA',
-        husband_image: 'https://images-na.ssl-images-amazon.com/images/M/MV5BMjUwNTA3OTIyNl5BMl5BanBnXkFtZTcwMzA4ODMzNw@@._V1_UX214_CR0,0,214,317_AL_.jpg',
-        wife_name: 'Ralphb Vince',
-        wife_POB: 'Tokyo, Japan',
-        wife_image: 'http://www.apalaweb.org/wp-content/uploads/2016/02/2015-10-15-10.37.59.jpg',
-        kid1_name: 'Lactusa Vince',
-        kid1_POB: 'Las Vegas, USA',
-        kid1_image: 'https://ssl.c.photoshelter.com/img-get/I0000PtKxiFyv_MM/s/860/860/0523A191.jpg',
-        kid2_name: 'Samuelz Sanots',
-        kid2_POB: 'Colorado, USA',
-        kid2_image: 'https://i.pinimg.com/736x/8a/09/01/8a09010b89d996b3788b090b97e2fba6--kids-photography-boys-photography-ideas.jpg',
-        kid3_name: 'Ojuy Kee',
-        kid3_POB: 'Colorado, USA',
-        kid3_image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRh0XJWAMAUkH1wHvdHAwvnZ46bkXOCmi6zi0iX4vH2HItI2VOS',
-        kid4_name: 'Creguix Wonge',
-        kid4_POB: 'Colorado, USA',
-        kid4_image: 'https://petapixel.com/assets/uploads/2011/08/nikonambass.jpg'
-      }, {
+      }, 
+      {
         husband_name: 'Mikei Rocks',
         husband_POB: 'Hollywood, USA',
         husband_image: 'https://s3.amazonaws.com/hiphopdx-production/2011/10/mikey.jpg',
@@ -58,7 +40,8 @@ exports.seed = function(knex, Promise) {
         kid4_name: 'Cingd Woong',
         kid4_POB: 'Colorado, USA',
         kid4_image: 'https://youthradio.org/wp-content/uploads/2016/03/Amber-780x440.jpg'
-      }, {
+      }, 
+      {
         husband_name: 'Benm Awad',
         husband_POB: 'Hollywood, USA',
         husband_image: 'https://media.licdn.com/media/AAEAAQAAAAAAAAwBAAAAJGRlZTZkYzlmLTFmMjktNGM4Ny1iZTdhLWJkYWIxYmY3OWVmOA.jpg',
@@ -77,7 +60,8 @@ exports.seed = function(knex, Promise) {
         kid4_name: 'Chinhh Wongtn',
         kid4_POB: 'Colorado, USA',
         kid4_image: 'http://www.incultureparent.com/wp-content/uploads/2013/01/2013janICP-electionv2.jpg'
-      }, {
+      }, 
+      {
         husband_name: 'Gabriels Iglesias',
         husband_POB: 'California, USA',
         husband_image: 'https://marriedwiki.com/uploads/bio/gabriel-iglesias.jpg',
@@ -96,7 +80,8 @@ exports.seed = function(knex, Promise) {
         kid4_name: 'Donn Omar',
         kid4_POB: 'Colorado, USA',
         kid4_image: 'https://upload.wikimedia.org/wikipedia/commons/b/bb/Omar_Khadr_-_child.jpg'
-      }, {
+      }, 
+      {
         husband_name: 'Eddy Caldas',
         husband_POB: 'Lima, Peru',
         husband_image: 'https://scontent.fapa1-1.fna.fbcdn.net/v/t1.0-9/18582298_1755879934427317_5289505391998070888_n.jpg?oh=d39838589f89987dd00e5027334bc799&oe=5AD7B000',
@@ -115,7 +100,8 @@ exports.seed = function(knex, Promise) {
         kid4_name: '',
         kid4_POB: '',
         kid4_image: ''
-      }, {
+      }, 
+      {
         husband_name: 'Ronaldyinho Velez',
         husband_POB: 'Brasilia, Brasil',
         husband_image: 'https://pbs.twimg.com/profile_images/817091464731693057/5RSuRSGK_400x400.jpg',
@@ -134,7 +120,8 @@ exports.seed = function(knex, Promise) {
         kid4_name: '',
         kid4_POB: '',
         kid4_image: ''
-      }, {
+      }, 
+      {
         husband_name: 'Samv Supreme',
         husband_POB: 'Colorado, USA',
         husband_image: 'https://media.licdn.com/media/AAEAAQAAAAAAAAqyAAAAJGI5N2U3ODkzLTc3ZTAtNDQ0ZS1iZTE0LThjZDBlNjU5ZmYyMw.jpg',
@@ -153,7 +140,8 @@ exports.seed = function(knex, Promise) {
         kid4_name: '',
         kid4_POB: '',
         kid4_image: ''
-      }, {
+      }, 
+      {
         husband_name: 'Rickyg Velesquez',
         husband_POB: 'Brasilia, Brasil',
         husband_image: 'https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAcWAAAAJDdkZTdhYWZlLTk2N2ItNGQwYy1iZjI3LTVkMmJlNmJkMzQyMg.jpg',
@@ -172,7 +160,8 @@ exports.seed = function(knex, Promise) {
         kid4_name: '',
         kid4_POB: '',
         kid4_image: ''
-      }, {
+      }, 
+      {
         husband_name: 'Spencerd Carlie',
         husband_POB: 'Brasilia, Brasil',
         husband_image: 'https://www.troy.edu/misstroy/assets/images/2017/carlie-spencer.jpg',
@@ -191,7 +180,8 @@ exports.seed = function(knex, Promise) {
         kid4_name: '',
         kid4_POB: '',
         kid4_image: ''
-      }, {
+      }, 
+      {
         husband_name: 'Michaela Nissen',
         husband_POB: 'Brasilia, Brasil',
         husband_image: 'https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAsQAAAAJDY5NGM4OWZmLWVhMzQtNDEyYS05NGQyLTBkYWUyZDk4ZTQyOA.jpg',
@@ -210,7 +200,8 @@ exports.seed = function(knex, Promise) {
         kid4_name: '',
         kid4_POB: '',
         kid4_image: ''
-      }, {
+      }, 
+      {
         husband_name: 'Redx Badger',
         husband_POB: 'Brasilia, Brasil',
         husband_image: 'https://d1t3gia0in9tdj.cloudfront.net/photo/tributes/t/8/r/207x207/4247477/Granville-Barger-1491587601.png',
@@ -229,7 +220,8 @@ exports.seed = function(knex, Promise) {
         kid4_name: '',
         kid4_POB: '',
         kid4_image: ''
-      }, {
+      }, 
+      {
         husband_name: 'Brandonu Brown',
         husband_POB: 'Brasilia, Brasil',
         husband_image: 'https://media.poetryfoundation.org/m/image/1893/Brandown%20Brown.jpg?w=1200&h=1200&fit=max',
@@ -248,7 +240,8 @@ exports.seed = function(knex, Promise) {
         kid4_name: '',
         kid4_POB: '',
         kid4_image: ''
-      }, {
+      }, 
+      {
         husband_name: 'Stever Jhonson',
         husband_POB: 'Brasilia, Brasil',
         husband_image: 'https://img.stackshare.io/user/108734/6104558.jpeg',
@@ -267,7 +260,8 @@ exports.seed = function(knex, Promise) {
         kid4_name: '',
         kid4_POB: '',
         kid4_image: ''
-      }, {
+      }, 
+      {
         husband_name: 'Benjamin Awado',
         husband_POB: 'Hollywood, USA',
         husband_image: 'https://benjaminfedwards.com/wp-content/uploads/2015/04/Mohammad-Awad-Eljied.png',
@@ -286,7 +280,8 @@ exports.seed = function(knex, Promise) {
         kid4_name: 'Twainj Wong',
         kid4_POB: 'Colorado, USA',
         kid4_image: ''
-      }, {
+      }, 
+      {
         husband_name: 'Ronw White',
         husband_POB: 'Hollywood, USA',
         husband_image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Ron_White01.jpg/220px-Ron_White01.jpg',
@@ -305,7 +300,8 @@ exports.seed = function(knex, Promise) {
         kid4_name: 'Jackier Lee',
         kid4_POB: 'Colorado, USA',
         kid4_image: ''
-      }, {
+      }, 
+      {
         husband_name: 'Lionelq Riche',
         husband_POB: 'Hollywood, USA',
         husband_image: 'https://img.discogs.com/doAGQ8xhyUpqsLEvto0b0sKafMk=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/A-69722-1500196110-9280.jpeg.jpg',
@@ -324,7 +320,8 @@ exports.seed = function(knex, Promise) {
         kid4_name: 'Leel Jack',
         kid4_POB: 'Colorado, USA',
         kid4_image: ''
-      }, {
+      }, 
+      {
         husband_name: 'Rodk Stewart',
         husband_POB: 'Hollywood, USA',
         husband_image: 'https://necropedia.org/jdd/public/documents/celebrities/804.jpg',
@@ -343,7 +340,8 @@ exports.seed = function(knex, Promise) {
         kid4_name: 'Moog Lee',
         kid4_POB: 'Colorado, USA',
         kid4_image: ''
-      }, {
+      }, 
+      {
         husband_name: 'Abb Nigtsf',
         husband_POB: 'Hollywood, USA',
         husband_image: 'http://l7.alamy.com/zooms/acb4d87cfa3249bd953ec6d8274f3741/boogie-nights-1997-mark-wahlberg-boog-061-bkabbx.jpg',
