@@ -113,13 +113,13 @@ exports.seed = function(knex, Promise) {
         kid1_image: 'https://media-exp2.licdn.com/mpr/mpr/shrinknp_200_200/p/4/000/17a/17c/1b64f30.jpg',
         kid2_name: 'Mirla Velez',
         kid2_POB: '',
-        kid2_image: '',
+        kid2_image: 'http://i0.kym-cdn.com/photos/images/newsfeed/001/303/313/2e6.jpg',
         kid3_name: '',
         kid3_POB: '',
-        kid3_image: '',
+        kid3_image: 'http://i0.kym-cdn.com/photos/images/newsfeed/001/303/313/2e6.jpg',
         kid4_name: '',
         kid4_POB: '',
-        kid4_image: ''
+        kid4_image: 'http://i0.kym-cdn.com/photos/images/newsfeed/001/303/313/2e6.jpg'
       }, 
       {
         husband_name: 'Samv Supreme',
@@ -133,13 +133,13 @@ exports.seed = function(knex, Promise) {
         kid1_image: 'https://i.pinimg.com/736x/59/c0/f0/59c0f0dd3b4285c320b7d8bc7f9a56c1--baby-fashion-clothes-cute-kids-fashion.jpg',
         kid2_name: '',
         kid2_POB: '',
-        kid2_image: '',
+        kid2_image: 'http://i0.kym-cdn.com/photos/images/newsfeed/001/303/313/2e6.jpg',
         kid3_name: '',
         kid3_POB: '',
-        kid3_image: '',
+        kid3_image: 'http://i0.kym-cdn.com/photos/images/newsfeed/001/303/313/2e6.jpg',
         kid4_name: '',
         kid4_POB: '',
-        kid4_image: ''
+        kid4_image: 'http://i0.kym-cdn.com/photos/images/newsfeed/001/303/313/2e6.jpg'
       }, 
       {
         husband_name: 'Rickyg Velesquez',
@@ -153,13 +153,13 @@ exports.seed = function(knex, Promise) {
         kid1_image: 'https://i.pinimg.com/736x/3f/58/8c/3f588cce44ccd710339a44352d3c3cee--velez-movember.jpg',
         kid2_name: '',
         kid2_POB: '',
-        kid2_image: '',
+        kid2_image: 'http://i0.kym-cdn.com/photos/images/newsfeed/001/303/313/2e6.jpg',
         kid3_name: '',
         kid3_POB: '',
-        kid3_image: '',
+        kid3_image: 'http://i0.kym-cdn.com/photos/images/newsfeed/001/303/313/2e6.jpg',
         kid4_name: '',
         kid4_POB: '',
-        kid4_image: ''
+        kid4_image: 'http://i0.kym-cdn.com/photos/images/newsfeed/001/303/313/2e6.jpg'
       }, 
       {
         husband_name: 'Spencerd Carlie',
@@ -173,13 +173,13 @@ exports.seed = function(knex, Promise) {
         kid1_image: 'https://cdn.pixabay.com/photo/2016/05/23/14/06/girl-1410404_960_720.jpg',
         kid2_name: '',
         kid2_POB: '',
-        kid2_image: '',
+        kid2_image: 'http://i0.kym-cdn.com/photos/images/newsfeed/001/303/313/2e6.jpg',
         kid3_name: '',
         kid3_POB: '',
-        kid3_image: '',
+        kid3_image: 'http://i0.kym-cdn.com/photos/images/newsfeed/001/303/313/2e6.jpg',
         kid4_name: '',
         kid4_POB: '',
-        kid4_image: ''
+        kid4_image: 'http://i0.kym-cdn.com/photos/images/newsfeed/001/303/313/2e6.jpg'
       }, 
       {
         husband_name: 'Michaela Nissen',
@@ -193,13 +193,13 @@ exports.seed = function(knex, Promise) {
         kid1_image: 'https://static1.squarespace.com/static/56c3780a01dbae0dedb433a4/58dea3da9de4bb1ab1e7cbbb/58d9544e1b10e366b437b967/1490637906687/Blanca+Azucena+Velasquez+Matute+1-1.jpg?format=500w',
         kid2_name: '',
         kid2_POB: '',
-        kid2_image: '',
+        kid2_image: 'http://i0.kym-cdn.com/photos/images/newsfeed/001/303/313/2e6.jpg',
         kid3_name: '',
         kid3_POB: '',
-        kid3_image: '',
+        kid3_image: 'http://i0.kym-cdn.com/photos/images/newsfeed/001/303/313/2e6.jpg',
         kid4_name: '',
         kid4_POB: '',
-        kid4_image: ''
+        kid4_image: 'http://i0.kym-cdn.com/photos/images/newsfeed/001/303/313/2e6.jpg'
       }, 
       {
         husband_name: 'Redx Badger',
@@ -213,13 +213,13 @@ exports.seed = function(knex, Promise) {
         kid1_image: 'http://jcbba.com/wp-content/uploads/2015/10/IMG_0481.jpg',
         kid2_name: '',
         kid2_POB: '',
-        kid2_image: '',
+        kid2_image: 'http://i0.kym-cdn.com/photos/images/newsfeed/001/303/313/2e6.jpg',
         kid3_name: '',
         kid3_POB: '',
-        kid3_image: '',
+        kid3_image: 'http://i0.kym-cdn.com/photos/images/newsfeed/001/303/313/2e6.jpg',
         kid4_name: '',
         kid4_POB: '',
-        kid4_image: ''
+        kid4_image: 'http://i0.kym-cdn.com/photos/images/newsfeed/001/303/313/2e6.jpg'
       }, 
       {
         husband_name: 'Brandonu Brown',
@@ -233,13 +233,13 @@ exports.seed = function(knex, Promise) {
         kid1_image: 'http://kaybrownphotography.com/ClientData/Themes/10072/Slider/XQ3U4091%20rt%203.jpg',
         kid2_name: '',
         kid2_POB: '',
-        kid2_image: '',
+        kid2_image: 'http://i0.kym-cdn.com/photos/images/newsfeed/001/303/313/2e6.jpg',
         kid3_name: '',
         kid3_POB: '',
-        kid3_image: '',
+        kid3_image: 'http://i0.kym-cdn.com/photos/images/newsfeed/001/303/313/2e6.jpg',
         kid4_name: '',
         kid4_POB: '',
-        kid4_image: ''
+        kid4_image: 'http://i0.kym-cdn.com/photos/images/newsfeed/001/303/313/2e6.jpg'
       }, 
       {
         husband_name: 'Stever Jhonson',
@@ -253,13 +253,13 @@ exports.seed = function(knex, Promise) {
         kid1_image: 'http://www.scientistafoundation.com/uploads/3/6/0/9/3609607/4312356.jpg?1416346214',
         kid2_name: '',
         kid2_POB: '',
-        kid2_image: '',
+        kid2_image: 'http://i0.kym-cdn.com/photos/images/newsfeed/001/303/313/2e6.jpg',
         kid3_name: '',
         kid3_POB: '',
-        kid3_image: '',
+        kid3_image: 'http://i0.kym-cdn.com/photos/images/newsfeed/001/303/313/2e6.jpg',
         kid4_name: '',
         kid4_POB: '',
-        kid4_image: ''
+        kid4_image: 'http://i0.kym-cdn.com/photos/images/newsfeed/001/303/313/2e6.jpg'
       }, 
       {
         husband_name: 'Benjamin Awado',
@@ -273,13 +273,13 @@ exports.seed = function(knex, Promise) {
         kid1_image: 'https://pbs.twimg.com/profile_images/3752973927/7e8fc2f0b4df17283813a2ef57230f55.jpeg',
         kid2_name: 'Blindl Dao',
         kid2_POB: 'Colorado, USA',
-        kid2_image: '',
+        kid2_image: 'http://i0.kym-cdn.com/photos/images/newsfeed/001/303/313/2e6.jpg',
         kid3_name: 'Juliek Jingle',
         kid3_POB: 'Colorado, USA',
-        kid3_image: '',
+        kid3_image: 'http://i0.kym-cdn.com/photos/images/newsfeed/001/303/313/2e6.jpg',
         kid4_name: 'Twainj Wong',
         kid4_POB: 'Colorado, USA',
-        kid4_image: ''
+        kid4_image: 'http://i0.kym-cdn.com/photos/images/newsfeed/001/303/313/2e6.jpg'
       }, 
       {
         husband_name: 'Ronw White',
@@ -287,19 +287,19 @@ exports.seed = function(knex, Promise) {
         husband_image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Ron_White01.jpg/220px-Ron_White01.jpg',
         wife_name: 'Mikev White',
         wife_POB: 'Tokyo, Japan',
-        wife_image: '',
+        wife_image: 'http://i0.kym-cdn.com/photos/images/newsfeed/001/303/313/2e6.jpg',
         kid1_name: 'Sadathu White',
         kid1_POB: 'Las Vegas, USA',
-        kid1_image: '',
+        kid1_image: 'http://i0.kym-cdn.com/photos/images/newsfeed/001/303/313/2e6.jpg',
         kid2_name: 'Greent Gou',
         kid2_POB: 'Colorado, USA',
-        kid2_image: '',
+        kid2_image: 'http://i0.kym-cdn.com/photos/images/newsfeed/001/303/313/2e6.jpg',
         kid3_name: 'Chings Gone',
         kid3_POB: 'Colorado, USA',
-        kid3_image: '',
+        kid3_image: 'http://i0.kym-cdn.com/photos/images/newsfeed/001/303/313/2e6.jpg',
         kid4_name: 'Jackier Lee',
         kid4_POB: 'Colorado, USA',
-        kid4_image: ''
+        kid4_image: 'http://i0.kym-cdn.com/photos/images/newsfeed/001/303/313/2e6.jpg'
       }, 
       {
         husband_name: 'Lionelq Riche',
@@ -307,19 +307,19 @@ exports.seed = function(knex, Promise) {
         husband_image: 'https://img.discogs.com/doAGQ8xhyUpqsLEvto0b0sKafMk=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/A-69722-1500196110-9280.jpeg.jpg',
         wife_name: 'Frankp Richie',
         wife_POB: 'Tokyo, Japan',
-        wife_image: '',
+        wife_image: 'http://i0.kym-cdn.com/photos/images/newsfeed/001/303/313/2e6.jpg',
         kid1_name: 'Ricko Richie',
         kid1_POB: 'Las Vegas, USA',
-        kid1_image: '',
+        kid1_image: 'http://i0.kym-cdn.com/photos/images/newsfeed/001/303/313/2e6.jpg',
         kid2_name: 'Jimmien Richie',
         kid2_POB: 'Colorado, USA',
-        kid2_image: '',
+        kid2_image: 'http://i0.kym-cdn.com/photos/images/newsfeed/001/303/313/2e6.jpg',
         kid3_name: 'Guacam Tay',
         kid3_POB: 'Colorado, USA',
-        kid3_image: '',
+        kid3_image: 'http://i0.kym-cdn.com/photos/images/newsfeed/001/303/313/2e6.jpg',
         kid4_name: 'Leel Jack',
         kid4_POB: 'Colorado, USA',
-        kid4_image: ''
+        kid4_image: 'http://i0.kym-cdn.com/photos/images/newsfeed/001/303/313/2e6.jpg'
       }, 
       {
         husband_name: 'Rodk Stewart',
@@ -327,19 +327,19 @@ exports.seed = function(knex, Promise) {
         husband_image: 'https://necropedia.org/jdd/public/documents/celebrities/804.jpg',
         wife_name: 'Sayong Stewart',
         wife_POB: 'Tokyo, Japan',
-        wife_image: '',
+        wife_image: 'http://i0.kym-cdn.com/photos/images/newsfeed/001/303/313/2e6.jpg',
         kid1_name: 'Ramsj Stewart',
         kid1_POB: 'Las Vegas, USA',
-        kid1_image: '',
+        kid1_image: 'http://i0.kym-cdn.com/photos/images/newsfeed/001/303/313/2e6.jpg',
         kid2_name: 'Rodolphi Stewart',
         kid2_POB: 'Colorado, USA',
-        kid2_image: '',
+        kid2_image: 'http://i0.kym-cdn.com/photos/images/newsfeed/001/303/313/2e6.jpg',
         kid3_name: 'Chin Chuh Lancha',
         kid3_POB: 'Colorado, USA',
-        kid3_image: '',
+        kid3_image: 'http://i0.kym-cdn.com/photos/images/newsfeed/001/303/313/2e6.jpg',
         kid4_name: 'Moog Lee',
         kid4_POB: 'Colorado, USA',
-        kid4_image: ''
+        kid4_image: 'http://i0.kym-cdn.com/photos/images/newsfeed/001/303/313/2e6.jpg'
       }, 
       {
         husband_name: 'Abb Nigtsf',
@@ -347,19 +347,19 @@ exports.seed = function(knex, Promise) {
         husband_image: 'http://l7.alamy.com/zooms/acb4d87cfa3249bd953ec6d8274f3741/boogie-nights-1997-mark-wahlberg-boog-061-bkabbx.jpg',
         wife_name: 'Sho Awade',
         wife_POB: 'Tokyo, Japan',
-        wife_image: '',
+        wife_image: 'http://i0.kym-cdn.com/photos/images/newsfeed/001/303/313/2e6.jpg',
         kid1_name: 'Miley Sirusd',
         kid1_POB: 'Las Vegas, USA',
-        kid1_image: '',
+        kid1_image: 'http://i0.kym-cdn.com/photos/images/newsfeed/001/303/313/2e6.jpg',
         kid2_name: 'Leo Markc',
         kid2_POB: 'Colorado, USA',
-        kid2_image: '',
+        kid2_image: 'http://i0.kym-cdn.com/photos/images/newsfeed/001/303/313/2e6.jpg',
         kid3_name: 'Guyen Hoangb',
         kid3_POB: 'Colorado, USA',
-        kid3_image: '',
+        kid3_image: 'http://i0.kym-cdn.com/photos/images/newsfeed/001/303/313/2e6.jpg',
         kid4_name: 'Ching Wonga',
         kid4_POB: 'Colorado, USA',
-        kid4_image: ''
+        kid4_image: 'http://i0.kym-cdn.com/photos/images/newsfeed/001/303/313/2e6.jpg'
       }
     ]);
   });
