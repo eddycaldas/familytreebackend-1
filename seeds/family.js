@@ -94,12 +94,12 @@ exports.seed = function(knex, Promise) {
         kid2_name: 'Eddie Jr Caldas',
         kid2_POB: 'Denver , USA',
         kid2_image: 'https://scontent-lga3-1.xx.fbcdn.net/v/t31.0-8/10842244_1073009579381026_4637937275276370043_o.jpg?oh=1e1a68c56d69b8c1d9e8349caa8936fa&oe=5A91810F',
-        // kid3_name: '',
-        // kid3_POB: '',
-        // kid3_image: '',
-        // kid4_name: '',
-        // kid4_POB: '',
-        // kid4_image: ''
+        kid3_name: '',
+        kid3_POB: '',
+        kid3_image: 'http://i0.kym-cdn.com/photos/images/newsfeed/001/303/313/2e6.jpg',
+        kid4_name: '',
+        kid4_POB: '',
+        kid4_image: 'http://i0.kym-cdn.com/photos/images/newsfeed/001/303/313/2e6.jpg'
       }, 
       {
         husband_name: 'Ronaldyinho Velez',
@@ -111,15 +111,15 @@ exports.seed = function(knex, Promise) {
         kid1_name: 'Kaylahw Velez',
         kid1_POB: 'Miami, USA',
         kid1_image: 'https://media-exp2.licdn.com/mpr/mpr/shrinknp_200_200/p/4/000/17a/17c/1b64f30.jpg',
-        // kid2_name: '',
-        // kid2_POB: '',
-        // kid2_image: '',
-        // kid3_name: '',
-        // kid3_POB: '',
-        // kid3_image: '',
-        // kid4_name: '',
-        // kid4_POB: '',
-        // kid4_image: ''
+        kid2_name: 'Mirla Velez',
+        kid2_POB: '',
+        kid2_image: '',
+        kid3_name: '',
+        kid3_POB: '',
+        kid3_image: '',
+        kid4_name: '',
+        kid4_POB: '',
+        kid4_image: ''
       }, 
       {
         husband_name: 'Samv Supreme',
