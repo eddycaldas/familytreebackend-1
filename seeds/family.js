@@ -94,9 +94,9 @@ exports.seed = function(knex, Promise) {
         kid2_name: 'Eddie Jr Caldas',
         kid2_POB: 'Denver , USA',
         kid2_image: 'https://scontent-lga3-1.xx.fbcdn.net/v/t31.0-8/10842244_1073009579381026_4637937275276370043_o.jpg?oh=1e1a68c56d69b8c1d9e8349caa8936fa&oe=5A91810F',
-        kid3_name: '',
-        kid3_POB: '',
-        kid3_image: 'http://i0.kym-cdn.com/photos/images/newsfeed/001/303/313/2e6.jpg',
+        kid3_name: 'Toby',
+        kid3_POB: 'Colorado Springs, USA',
+        kid3_image: 'https://scontent.fapa1-1.fna.fbcdn.net/v/t1.0-9/15965588_1821595934760683_2574474349400774993_n.jpg?oh=86a2f7c651604d8ec2b0d708a68e5c10&oe=5ABD7046',
         kid4_name: '',
         kid4_POB: '',
         kid4_image: 'http://i0.kym-cdn.com/photos/images/newsfeed/001/303/313/2e6.jpg'
@@ -104,7 +104,7 @@ exports.seed = function(knex, Promise) {
       {
         husband_name: 'Ronaldinho Velez',
         husband_POB: 'Brasilia, Brasil',
-        husband_image: 'https://pbs.twimg.com/profile_images/817091464731693057/5RSuRSGK_400x400.jpg',
+        husband_image: 'https://ak5.picdn.net/shutterstock/videos/26972965/thumb/1.jpg?i10c=img.resize',
         wife_name: 'Rachelx Velez',
         wife_POB: 'Las Vegas, USA',
         wife_image: 'http://cdn.skim.gs/images/m5jidzdsd6gdfvd2x38r/20-pop-songs-for-kids-that-dont-involve-sex-drugs-or-lady-gaga',
@@ -122,9 +122,9 @@ exports.seed = function(knex, Promise) {
         kid4_image: 'http://i0.kym-cdn.com/photos/images/newsfeed/001/303/313/2e6.jpg'
       }, 
       {
-        husband_name: 'Sam Supreme',
+        husband_name: 'Samuel Sanders',
         husband_POB: 'Colorado, USA',
-        husband_image: 'https://media.licdn.com/media/AAEAAQAAAAAAAAqyAAAAJGI5N2U3ODkzLTc3ZTAtNDQ0ZS1iZTE0LThjZDBlNjU5ZmYyMw.jpg',
+        husband_image: 'https://media.npr.org/assets/img/2017/04/17/sam-sanders_vert-d57541542f14b638ef024d9ef34e6af1307d8a03-s200-c85.jpeg',
         wife_name: 'Ninau Sky',
         wife_POB: 'Las Vegas, USA',
         wife_image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7BC7iy2E0htIAxq7Xb7wXx77jePBv-KhJVUkrUtfKhWb10aPDLQ',
@@ -284,7 +284,7 @@ exports.seed = function(knex, Promise) {
       {
         husband_name: 'Ronald White',
         husband_POB: 'Hollywood, USA',
-        husband_image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Ron_White01.jpg/220px-Ron_White01.jpg',
+        husband_image: 'http://whiteoaksf.com/wp-content/uploads/2017/05/Team-Ronald_J_Buck.jpg',
         wife_name: 'Mikev White',
         wife_POB: 'Tokyo, Japan',
         wife_image: 'http://i0.kym-cdn.com/photos/images/newsfeed/001/303/313/2e6.jpg',
@@ -302,10 +302,10 @@ exports.seed = function(knex, Promise) {
         kid4_image: 'http://i0.kym-cdn.com/photos/images/newsfeed/001/303/313/2e6.jpg'
       }, 
       {
-        husband_name: 'Lionel Riche',
+        husband_name: 'Lauren Russ',
         husband_POB: 'Hollywood, USA',
-        husband_image: 'https://img.discogs.com/doAGQ8xhyUpqsLEvto0b0sKafMk=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/A-69722-1500196110-9280.jpeg.jpg',
-        wife_name: 'Frankp Richie',
+        husband_image: 'https://localtvwdaf.files.wordpress.com/2014/07/lauren-russ.png',
+        wife_name: 'Frank Richie',
         wife_POB: 'Tokyo, Japan',
         wife_image: 'http://i0.kym-cdn.com/photos/images/newsfeed/001/303/313/2e6.jpg',
         kid1_name: 'Ricko Richie',
@@ -322,9 +322,9 @@ exports.seed = function(knex, Promise) {
         kid4_image: 'http://i0.kym-cdn.com/photos/images/newsfeed/001/303/313/2e6.jpg'
       }, 
       {
-        husband_name: 'Rod Stewart',
+        husband_name: 'Justin Brown',
         husband_POB: 'Hollywood, USA',
-        husband_image: 'https://necropedia.org/jdd/public/documents/celebrities/804.jpg',
+        husband_image: 'http://www.sru.edu/Images/news/2016/feb/020116b_inline-1.jpg',
         wife_name: 'Sayong Stewart',
         wife_POB: 'Tokyo, Japan',
         wife_image: 'http://i0.kym-cdn.com/photos/images/newsfeed/001/303/313/2e6.jpg',
@@ -342,7 +342,7 @@ exports.seed = function(knex, Promise) {
         kid4_image: 'http://i0.kym-cdn.com/photos/images/newsfeed/001/303/313/2e6.jpg'
       }, 
       {
-        husband_name: 'Abb Nigts',
+        husband_name: 'Abb Nights',
         husband_POB: 'Hollywood, USA',
         husband_image: 'http://l7.alamy.com/zooms/acb4d87cfa3249bd953ec6d8274f3741/boogie-nights-1997-mark-wahlberg-boog-061-bkabbx.jpg',
         wife_name: 'Sho Awade',
