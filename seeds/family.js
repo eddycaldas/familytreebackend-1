@@ -97,9 +97,9 @@ exports.seed = function(knex, Promise) {
         kid3_name: 'Toby',
         kid3_POB: 'Colorado Springs, USA',
         kid3_image: 'https://scontent.fapa1-1.fna.fbcdn.net/v/t1.0-9/15965588_1821595934760683_2574474349400774993_n.jpg?oh=86a2f7c651604d8ec2b0d708a68e5c10&oe=5ABD7046',
-        kid4_name: '',
-        kid4_POB: '',
-        kid4_image: 'http://i0.kym-cdn.com/photos/images/newsfeed/001/303/313/2e6.jpg'
+        kid4_name: 'EL Chimi',
+        kid4_POB: 'Colorado Springs USA',
+        kid4_image: 'https://www.facebook.com/eddy.caldas.9/videos/vb.100000159835182/424634607551863/?type=2&video_source=user_video_tab'
       }, 
       {
         husband_name: 'Ronaldinho Velez',
