@@ -2,10 +2,10 @@ exports.seed = function(knex, Promise) {
   return knex('family').del().then(function() {
     return knex('family').insert([
       {
-        husband_name: 'Robertc Vince',
+        husband_name: 'Robert Vince',
         husband_POB: 'Hollywood, USA',
         husband_image: 'https://images-na.ssl-images-amazon.com/images/M/MV5BMjUwNTA3OTIyNl5BMl5BanBnXkFtZTcwMzA4ODMzNw@@._V1_UX214_CR0,0,214,317_AL_.jpg',
-        wife_name: 'Ralphb Vince',
+        wife_name: 'Rafaella Vince',
         wife_POB: 'Tokyo, Japan',
         wife_image: 'http://www.apalaweb.org/wp-content/uploads/2016/02/2015-10-15-10.37.59.jpg',
         kid1_name: 'Lactusa Vince',
@@ -22,7 +22,7 @@ exports.seed = function(knex, Promise) {
         kid4_image: 'https://petapixel.com/assets/uploads/2011/08/nikonambass.jpg'
       }, 
       {
-        husband_name: 'Mikei Rocks',
+        husband_name: 'Mike Rocks',
         husband_POB: 'Hollywood, USA',
         husband_image: 'https://s3.amazonaws.com/hiphopdx-production/2011/10/mikey.jpg',
         wife_name: 'Moochoh Tak',
@@ -42,10 +42,10 @@ exports.seed = function(knex, Promise) {
         kid4_image: 'https://youthradio.org/wp-content/uploads/2016/03/Amber-780x440.jpg'
       }, 
       {
-        husband_name: 'Benm Awad',
+        husband_name: 'Ben Awad',
         husband_POB: 'Hollywood, USA',
         husband_image: 'https://media.licdn.com/media/AAEAAQAAAAAAAAwBAAAAJGRlZTZkYzlmLTFmMjktNGM4Ny1iZTdhLWJkYWIxYmY3OWVmOA.jpg',
-        wife_name: 'Chinl Gonee',
+        wife_name: 'Chin Gonee',
         wife_POB: 'Tokyo, Japan',
         wife_image: 'https://s-media-cache-ak0.pinimg.com/avatars/yawad87-1386562659_280.jpg',
         kid1_name: 'Milyk Sirs',
@@ -102,7 +102,7 @@ exports.seed = function(knex, Promise) {
         kid4_image: 'http://i0.kym-cdn.com/photos/images/newsfeed/001/303/313/2e6.jpg'
       }, 
       {
-        husband_name: 'Ronaldyinho Velez',
+        husband_name: 'Ronaldinho Velez',
         husband_POB: 'Brasilia, Brasil',
         husband_image: 'https://pbs.twimg.com/profile_images/817091464731693057/5RSuRSGK_400x400.jpg',
         wife_name: 'Rachelx Velez',
@@ -122,7 +122,7 @@ exports.seed = function(knex, Promise) {
         kid4_image: 'http://i0.kym-cdn.com/photos/images/newsfeed/001/303/313/2e6.jpg'
       }, 
       {
-        husband_name: 'Samv Supreme',
+        husband_name: 'Sam Supreme',
         husband_POB: 'Colorado, USA',
         husband_image: 'https://media.licdn.com/media/AAEAAQAAAAAAAAqyAAAAJGI5N2U3ODkzLTc3ZTAtNDQ0ZS1iZTE0LThjZDBlNjU5ZmYyMw.jpg',
         wife_name: 'Ninau Sky',
@@ -142,7 +142,7 @@ exports.seed = function(knex, Promise) {
         kid4_image: 'http://i0.kym-cdn.com/photos/images/newsfeed/001/303/313/2e6.jpg'
       }, 
       {
-        husband_name: 'Rickyg Velesquez',
+        husband_name: 'Ricky Velesquez',
         husband_POB: 'Brasilia, Brasil',
         husband_image: 'https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAcWAAAAJDdkZTdhYWZlLTk2N2ItNGQwYy1iZjI3LTVkMmJlNmJkMzQyMg.jpg',
         wife_name: 'Rossf Velesquez',
@@ -162,7 +162,7 @@ exports.seed = function(knex, Promise) {
         kid4_image: 'http://i0.kym-cdn.com/photos/images/newsfeed/001/303/313/2e6.jpg'
       }, 
       {
-        husband_name: 'Spencerd Carlie',
+        husband_name: 'Spencer Carlie',
         husband_POB: 'Brasilia, Brasil',
         husband_image: 'https://www.troy.edu/misstroy/assets/images/2017/carlie-spencer.jpg',
         wife_name: 'Rosac Martin',
@@ -202,7 +202,7 @@ exports.seed = function(knex, Promise) {
         kid4_image: 'http://i0.kym-cdn.com/photos/images/newsfeed/001/303/313/2e6.jpg'
       }, 
       {
-        husband_name: 'Redx Badger',
+        husband_name: 'Rodredic Badger',
         husband_POB: 'Brasilia, Brasil',
         husband_image: 'https://d1t3gia0in9tdj.cloudfront.net/photo/tributes/t/8/r/207x207/4247477/Granville-Barger-1491587601.png',
         wife_name: 'Laurenw Badger',
@@ -222,7 +222,7 @@ exports.seed = function(knex, Promise) {
         kid4_image: 'http://i0.kym-cdn.com/photos/images/newsfeed/001/303/313/2e6.jpg'
       }, 
       {
-        husband_name: 'Brandonu Brown',
+        husband_name: 'Brandon Brown',
         husband_POB: 'Brasilia, Brasil',
         husband_image: 'https://media.poetryfoundation.org/m/image/1893/Brandown%20Brown.jpg?w=1200&h=1200&fit=max',
         wife_name: 'Blancat Perez',
@@ -242,7 +242,7 @@ exports.seed = function(knex, Promise) {
         kid4_image: 'http://i0.kym-cdn.com/photos/images/newsfeed/001/303/313/2e6.jpg'
       }, 
       {
-        husband_name: 'Stever Jhonson',
+        husband_name: 'Steve Jhonson',
         husband_POB: 'Brasilia, Brasil',
         husband_image: 'https://img.stackshare.io/user/108734/6104558.jpeg',
         wife_name: 'Cleareq Jhonson',
@@ -282,7 +282,7 @@ exports.seed = function(knex, Promise) {
         kid4_image: 'http://i0.kym-cdn.com/photos/images/newsfeed/001/303/313/2e6.jpg'
       }, 
       {
-        husband_name: 'Ronw White',
+        husband_name: 'Ronald White',
         husband_POB: 'Hollywood, USA',
         husband_image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Ron_White01.jpg/220px-Ron_White01.jpg',
         wife_name: 'Mikev White',
@@ -302,7 +302,7 @@ exports.seed = function(knex, Promise) {
         kid4_image: 'http://i0.kym-cdn.com/photos/images/newsfeed/001/303/313/2e6.jpg'
       }, 
       {
-        husband_name: 'Lionelq Riche',
+        husband_name: 'Lionel Riche',
         husband_POB: 'Hollywood, USA',
         husband_image: 'https://img.discogs.com/doAGQ8xhyUpqsLEvto0b0sKafMk=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/A-69722-1500196110-9280.jpeg.jpg',
         wife_name: 'Frankp Richie',
@@ -322,7 +322,7 @@ exports.seed = function(knex, Promise) {
         kid4_image: 'http://i0.kym-cdn.com/photos/images/newsfeed/001/303/313/2e6.jpg'
       }, 
       {
-        husband_name: 'Rodk Stewart',
+        husband_name: 'Rod Stewart',
         husband_POB: 'Hollywood, USA',
         husband_image: 'https://necropedia.org/jdd/public/documents/celebrities/804.jpg',
         wife_name: 'Sayong Stewart',
@@ -342,7 +342,7 @@ exports.seed = function(knex, Promise) {
         kid4_image: 'http://i0.kym-cdn.com/photos/images/newsfeed/001/303/313/2e6.jpg'
       }, 
       {
-        husband_name: 'Abb Nigtsf',
+        husband_name: 'Abb Nigts',
         husband_POB: 'Hollywood, USA',
         husband_image: 'http://l7.alamy.com/zooms/acb4d87cfa3249bd953ec6d8274f3741/boogie-nights-1997-mark-wahlberg-boog-061-bkabbx.jpg',
         wife_name: 'Sho Awade',
